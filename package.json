@@ -1,0 +1,11 @@
+{
+  "name": "panel-creator",
+  "version": "1.0.0",
+  "description": "A simple panel creator",
+  "main": "api/create-panel.js",
+  "dependencies": {
+    "node-fetch": "^3.3.1"
+  },
+  "author": "Rerezz Official",
+  "license": "MIT"
+}
