@@ -13,8 +13,8 @@ module.exports = async (req, res) => {
 
   // Simulasi API untuk pembuatan panel
   try {
-    const apikey = 'YOUR_API_KEY'; // Ganti dengan API Key Anda
-    const domain = 'https://your-panel-domain.com'; // Ganti dengan domain panel Anda
+    const apikey = 'ptla_NrSSRjczpiA1ZB2wxRXHDpNOSSkkhKvuVFf3Xnek0vv'; // Ganti dengan API Key Anda
+    const domain = 'https://xyrezz-official.online-server.biz.id/'; // Ganti dengan domain panel Anda
 
     // Membuat user
     const userResponse = await fetch(`${domain}/api/application/users`, {
